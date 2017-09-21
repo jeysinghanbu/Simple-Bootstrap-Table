@@ -1,4 +1,15 @@
-Simple Bootstrap Table
-======================
+Simple Bootstrp Table
+==================
+**Description**
 
-![ScreenShot](https://github.com/jeysinghanbu/Simple-Bootstrap-Table/blob/master/screenshot/Capture.PNG "Screen shot")
+	A simple bootstrap table with bootstrap model edit and popupover delete confirmation
+
+----------
+**Screenshot**
+
+![Screenshot](https://raw.githubusercontent.com/jeysinghanbu/Simple-Bootstrap-Table/master/screenshot/Capture.PNG)
+
+
+
+
+***Happy Coding :)***
