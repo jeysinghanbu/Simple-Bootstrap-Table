@@ -1,4 +1,4 @@
-bootstrap-table
-===============
+Simple Bootstrap Table
+======================
 
-![ScreenShot](https://raw.github.com/jeysinghanbu/bootstrap-table/blob/master/img/Capture.JPG "Screen shot")
+![ScreenShot](https://github.com/jeysinghanbu/Simple-Bootstrap-Table/blob/master/screenshot/Capture.PNG "Screen shot")
