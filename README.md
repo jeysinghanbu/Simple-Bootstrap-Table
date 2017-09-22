@@ -7,7 +7,7 @@ Simple Bootstrp Table
 ----------
 **Screenshot**
 
-![Screenshot](https://raw.githubusercontent.com/jeysinghanbu/Simple-Bootstrap-Table/master/screenshot/Capture.PNG)
+![Screenshot](https://raw.githubusercontent.com/jeysinghanbu/Simple-Bootstrap-Table/master/img/Capture.PNG)
 
 
 
